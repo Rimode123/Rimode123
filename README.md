@@ -1,4 +1,7 @@
 ### Hi there 👋
+Hi, I'm Rim, a passionate full stack web developer and freelance computerized business management engineer (MIAGE) from Morocco. my passion for software is imagining ideas and bringing them to life with sleek interfaces. I take great care of the experience, architecture and code quality of the things I build.
+
+I am also passionate about designing and developing CDA applications.
 
 <!--
 **Rimode123/Rimode123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
